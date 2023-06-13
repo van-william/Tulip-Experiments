@@ -16,3 +16,7 @@ Repository of Experiments Integrating with Tulip
 
 ### Shift Changeover
 - This project summarizes some draft GPT-3 prompts for summarizing and analyzing shift changeover notes
+
+### Part Counter Analytics
+- Goal is to simply, easily make a build-up chart to show progressv by hour, minute for a relatively high volume line
+- A lot of this thinking focuses on showing real cycle times compared to TAKT time
