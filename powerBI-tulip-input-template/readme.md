@@ -14,3 +14,5 @@ Download the .pbix template and follow the in-app instructions (Shown below)
 4. Clarify privacy level when prompted (Default is public)
 5. Click on the "Table" in the records column with offset = 0
 6. Modify table as needed; click "Close and Apply"
+
+![Instructions](https://github.com/van-william/Tulip-Experiments/blob/main/powerBI-tulip-input-template/PowerBI%20Template%20overview.png)https://github.com/van-william/Tulip-Experiments/blob/main/powerBI-tulip-input-template/PowerBI%20Template%20overview.png)
