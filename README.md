@@ -5,7 +5,7 @@ Repository of Experiments Integrating with Tulip
 - This notebook includes several proof of concepts demonstrating connectors, bots, and other features
 - The goal is to show overall functionality and provide lessons learned for starting points with connectors and bots
 
-## Projects
+## Project Summaries
 
 ### Andon Summary
 - In this project, I built a mobile andon Tulip app and then created a Tulip Table API bot to query the downtime history table
