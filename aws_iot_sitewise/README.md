@@ -1,4 +1,3 @@
-# Tulip - IoT Sitewise Custom Widget
+# Tulip - IoT Sitewise
 
-Because connector outputs cannot be visualized natively, a custom widget is required. Example scripts are included in this folder.
-
+This directory shows how to query sitewise data via an API Gateway and Lambda function in order to visualize on Tulip
